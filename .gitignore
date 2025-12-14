@@ -1,6 +1,6 @@
 #Folder
-dist/
-app/
-node_modules/
-ds-store/
+/dist
+/app
+/node_modules
+.DS_Store
 .vscode/

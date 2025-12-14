@@ -1,0 +1,21 @@
+{
+  "name": "digital-card",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "tw:dev": "tailwindcss -i ./src/input.css -o ./src/output.css --watch",
+    "tw:build": "tailwindcss -i ./src/input.css -o ./src/output.css"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.18",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "tailwindcss": "^4.1.18"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "vite": "^7.2.7"
+  }
+}

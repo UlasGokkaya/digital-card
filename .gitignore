@@ -1,0 +1,7 @@
+#Folder
+dist/
+app/
+node-modules/
+ds-store/
+.vscode/
+__pycache__/

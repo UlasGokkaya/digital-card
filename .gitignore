@@ -1,6 +1,6 @@
 #Folder
 dist/
 app/
-node-modules/
+node_modules/
 ds-store/
 .vscode/

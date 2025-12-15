@@ -10,14 +10,14 @@ export default function Main() {
 
             {/* Buttons */}
             <div className="flex gap-3">
-                <button className="flex-1 bg-white text-gray-800 py-2 px-4 rounded-md text-sm font-medium hover:bg-gray-100 flex items-center justify-center gap-2">
+                <a href="mailto:ulasgokkaya84@gmail.com" className="flex-1 bg-white text-gray-800 py-2 px-4 rounded-md text-sm font-medium hover:bg-gray-100 flex items-center justify-center gap-2">
                     <img src="./images/email.svg" alt="Email" className="w-4 h-4"/>
                     Email
-                </button>
-                <button className="flex-1 bg-blue-600 text-white py-2 px-4 rounded-md text-sm font-medium hover:bg-blue-700 flex items-center justify-center gap-2">
+                </a>
+                <a href="https://www.linkedin.com/in/ulasgokkaya/" target="_blank" rel="noopener noreferrer" className="flex-1 bg-blue-600 text-white py-2 px-4 rounded-md text-sm font-medium hover:bg-blue-700 flex items-center justify-center gap-2">
                     <img src="./images/linkedin1.svg" alt="LinkedIn" className="w-4 h-4"/>
                     LinkedIn
-                </button>
+                </a>
             </div>
             {/* About Section */}
             <div className="space-y-2">

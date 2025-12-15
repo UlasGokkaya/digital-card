@@ -19,7 +19,7 @@ A modern and elegant digital business card application built with React, Vite, a
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/UlasGokkaya/digital-card.git
 cd digital-card
 ```
 

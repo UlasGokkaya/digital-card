@@ -23,7 +23,7 @@ export default function Main() {
             <div className="space-y-2">
                 <h2 className="text-white font-semibold">About</h2>
                 <p className="text-white text-sm leading-relaxed">
-                    Hello Everyone! I'm Ulaş, I'm 19 years old. I'm a 2nd grade computer engineering student at Izmir Institute of High Technology. I love coding and developing new things.
+                    Hello Everyone! I'm Ulaş, I'm 20 years old. I'm a 2nd grade computer engineering student at Izmir Institute of High Technology. I love coding and developing new things.
                 </p>
             </div>
             {/* Interests Section */}
